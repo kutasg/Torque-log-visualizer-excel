@@ -18,7 +18,7 @@ tracklog.csv can be converted by other tool if you dont want to run perl script.
 
 different log header in one file is not supported.
 
-This repo is a raw version, for intermediate knowledge users.
+This repo is a raw version, for users with intermediate knowledge.
 further improvement can be the perl sctipt is to be integrated into excel vba macro
 with a csv importer button.
 
